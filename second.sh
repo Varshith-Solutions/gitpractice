@@ -1,6 +1,6 @@
 Hi,
 
-I'm file number 2.
+I'm file number two.
 
 Thankyou,
-Second.
+second.
